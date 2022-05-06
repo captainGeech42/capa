@@ -13,6 +13,7 @@
  - add file function-name extraction for dotnet files #1015 @mike-hunhoff
  - add unmanaged call characteristic for dotnet files #1023 @mike-hunhoff
  - add mixed mode characteristic feature extraction for dotnet files #1024 @mike-hunhoff
+ - document rule tags #1006 @williballenthin, @mr-tz
 
 ### Breaking Changes
 
